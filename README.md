@@ -31,7 +31,7 @@ Flow:
 3. Step 3 – Use Matplotlib to plot line charts of hours and cost over the past N days  
 4. Step 4 – Save the visualization as `usage_visualization.png` and display inline in Colab  
 
-------
+---------
 
 ## ▶️ Run Spotlight-Bot
 
