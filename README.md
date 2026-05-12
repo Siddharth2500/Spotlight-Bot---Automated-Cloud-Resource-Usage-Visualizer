@@ -1,4 +1,4 @@
-# 🚀 Spotlight-Bot — Automated Cloud Resource Usage Visualizer
+# 🚀 Spotlight-Bot - Automated Cloud Resource Usage Visualizer
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Resource-Visualizer-FF5252.svg?logo=cloud)  
