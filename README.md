@@ -9,7 +9,7 @@
 
 **Spotlight-Bot** is a **Python 3** tool designed to automatically load cloud-resource usage data (hours & cost) and generate visual charts of usage trends over time. It’s built for cloud engineers, operations teams, and cost-analysis dashboards who want a quick visual overview of resource consumption.
 
------------------------
+------------------------
 
 ## 🛠 Tech & Languages
 
